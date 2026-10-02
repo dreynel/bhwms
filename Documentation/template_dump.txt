@@ -1,0 +1,186 @@
+P0 (align=CENTER (1), style=NoStyle): [:default:default][PROJECT TITLE IN CAPITAL LETTERS]
+P1 (align=None, style=NoStyle): [:default:default]
+P2 (align=None, style=NoStyle): [:default:default]
+P3 (align=CENTER (1), style=NoStyle): [:default:default]An IT Capstone Project
+P4 (align=None, style=NoStyle): [:default:default]
+P5 (align=CENTER (1), style=NoStyle): [:default:default]Presented to
+P6 (align=CENTER (1), style=NoStyle): [:default:default]the Faculty of the [Program Name]
+P7 (align=CENTER (1), style=NoStyle): [:default:default][University / Campus Name]
+P8 (align=CENTER (1), style=NoStyle): [:default:default][Campus Address]
+P9 (align=None, style=NoStyle): [:default:default]
+P10 (align=CENTER (1), style=NoStyle): [:default:default]In Partial Fulfillment
+P11 (align=CENTER (1), style=NoStyle): [:default:default]of the Requirements for the Degree
+P12 (align=CENTER (1), style=NoStyle): [:default:default][Degree Name]
+P13 (align=None, style=NoStyle): [:default:default]
+P14 (align=CENTER (1), style=NoStyle): [:default:default]by:
+P15 (align=CENTER (1), style=NoStyle): [:default:default][Member 1]
+P16 (align=CENTER (1), style=NoStyle): [:default:default][Member 2]
+P17 (align=CENTER (1), style=NoStyle): [:default:default][Member 3]
+P18 (align=None, style=NoStyle): [:default:default]
+P19 (align=CENTER (1), style=NoStyle): [:default:default][Month Year]
+P20 (align=None, style=Front Matter Heading): [:default:default]APPROVAL SHEET
+P21 (align=None, style=Body Text Indented): [:default:default]This capstone project is entitled “[PROJECT TITLE],” prepared and submitted by [NAMES], in partial fulfillment of the requirements for the degree [DEGREE], and is hereby recommended for approval.
+P22 (align=CENTER (1), style=NoStyle): [:default:default][ADVISER NAME, Degree]
+P23 (align=CENTER (1), style=NoStyle): [:default:default]Adviser
+P24 (align=None, style=NoStyle): [:default:default]
+P25 (align=None, style=Body Text Indented): [:default:default]It passed the final defense on [date], and was approved by the Defense Committee in [month year], with a grade of PASSED.
+P26 (align=CENTER (1), style=NoStyle): [:default:default][PANEL CHAIR, Degree]
+P27 (align=CENTER (1), style=NoStyle): [:default:default]Panel Chair / Subject Instructor
+P28 (align=None, style=NoStyle): [:default:default]
+P29 (align=CENTER (1), style=NoStyle): [:default:default][MEMBER, Degree]          [MEMBER, Degree]
+P30 (align=CENTER (1), style=NoStyle): [:default:default]Member                                        Member
+P31 (align=None, style=NoStyle): [:default:default]
+P32 (align=None, style=Body Text Indented): [:default:default]Accepted and approved for partial fulfillment of the requirements for the degree [DEGREE].
+P33 (align=CENTER (1), style=NoStyle): [:default:default][CAMPUS ADMINISTRATOR, Degree]
+P34 (align=CENTER (1), style=NoStyle): [:default:default]Campus Administrator
+P35 (align=None, style=NoStyle): [:default:default]
+P36 (align=CENTER (1), style=NoStyle): [:default:default]Date
+P37 (align=None, style=Front Matter Heading): [:default:default]ACKNOWLEDGEMENT
+P38 (align=None, style=Body Text Indented): [:default:default][Thank the adviser, panel, institution, respondents, family, and God. Written in third person (“the researchers”), double-spaced, first line indented 0.5".]
+P39 (align=RIGHT (2), style=NoStyle): [:default:default][Initials of researchers]
+P40 (align=RIGHT (2), style=NoStyle): [:default:default][Month Year]
+P41 (align=CENTER (1), style=NoStyle): [:default:default][PROJECT TITLE]
+P42 (align=CENTER (1), style=NoStyle): [:default:default][Researcher 1]
+P43 (align=CENTER (1), style=NoStyle): [:default:default][Researcher 2]
+P44 (align=None, style=Front Matter Heading (no break)): [:default:default]ABSTRACT
+P45 (align=None, style=Abstract Text): [:default:default][One block paragraph: problem, system developed and its modules, SDLC model used, tools, testing performed, evaluation standard and overall mean/interpretation. Justified, double-spaced, first line indented 0.5".]
+P46 (align=None, style=Front Matter Heading): [:default:default]TABLE OF CONTENTS
+P47 (align=None, style=Front Matter Heading): [:default:default]LIST OF TABLES
+P48 (align=None, style=NoStyle): [:default:default]Table 1  [Title of table][:default:default]	[page]
+P49 (align=None, style=NoStyle): [:default:default]Table 2  [Title of table][:default:default]	[page]
+P50 (align=None, style=Front Matter Heading): [:default:default]LIST OF FIGURES
+P51 (align=None, style=NoStyle): [:default:default]Figure 1  [Title of figure][:default:default]	[page]
+P52 (align=None, style=NoStyle): [:default:default]Figure 2  [Title of figure][:default:default]	[page]
+P53 (align=None, style=Front Matter Heading): [:default:default]LIST OF APPENDICES
+P54 (align=None, style=NoStyle): [:default:default]Appendix A  [Title][:default:default]	[page]
+P55 (align=None, style=NoStyle): [:default:default]Appendix B  [Title][:default:default]	[page]
+P56 (align=None, style=NoStyle): 
+P57 (align=None, style=Heading 1): [:default:default]Chapter I[:default:default]
+INTRODUCTION
+P58 (align=None, style=Heading 2): [:default:default]Background of the Study
+P59 (align=None, style=Guide Note (delete)): [:default:default][Module guide — write 5–6 paragraphs: (1) general topic and its importance; (2) your institution/program; (3) the current manual process or problem; (4) the gap or need; (5) the proposed system; (6) expected benefits.]
+P60 (align=None, style=Body Text Indented): [:default:default][Paragraph 1.]
+P61 (align=None, style=Heading 2): [:default:default]Objectives of the Study
+P62 (align=None, style=Guide Note (delete)): [:default:default][Module guide — 1 general objective + specific objectives, each starting with a lowercase action verb (develop, manage, generate, evaluate) and covering one core function.]
+P63 (align=None, style=Body Text Indented): [:default:default]The main objective of the study was to [general objective].
+P64 (align=None, style=Body Text Indented): [:default:default]Specifically, the study aimed to:
+P65 (align=None, style=Objective Item): [:default:default][create a database of …];
+P66 (align=None, style=Objective Item): [:default:default][manage user accounts for …];
+P67 (align=None, style=Objective Item): [:default:default][record and monitor …];
+P68 (align=None, style=Objective Item): [:default:default][generate reports …]; and
+P69 (align=None, style=Objective Item): [:default:default][evaluate the system using ISO 25010 software quality standards.]
+P70 (align=None, style=Heading 2): [:default:default]Conceptual Framework of the Study
+P71 (align=None, style=Guide Note (delete)): [:default:default][Module guide — IPO model: Input → Process → Output, with the System’s Evaluation box feeding back to all three. Introduce the figure first, show it, then describe Input, Process, Output in paragraph form.]
+P72 (align=None, style=Body Text Indented): [:default:default]Figure 1 shows the conceptual framework of this study.
+P73 (align=CENTER (1), style=Guide Note (delete)): [:default:default][Insert figure here — centered, fit within the 1.5" left / 1" right margins]
+P74 (align=None, style=Figure Caption): [:default:default]Figure 1. [I:default:default]Conceptual Framework of the Study
+P75 (align=None, style=Body Text Indented): [:default:default][Describe the framework: input stage, process stage, output stage, and the evaluation feedback loop.]
+P76 (align=None, style=Heading 2): [:default:default]Definition of Terms
+P77 (align=None, style=Guide Note (delete)): [:default:default][Module guide — alphabetical order. Each term: conceptual definition with APA citation, then operational definition starting with “In this study,”. Term is italicized, followed by a period.]
+P78 (align=None, style=Body Text Indented): [I:default:default][Term][:default:default]. [Conceptual definition] ([Author], [Year]).
+P79 (align=None, style=Body Text Indented): [:default:default]In this study, [term] refers to [operational definition].
+P80 (align=None, style=Heading 2): [:default:default]Significance of the Study
+P81 (align=None, style=Guide Note (delete)): [:default:default][Module guide — one paragraph per stakeholder: Faculty, Laboratory Staff/Users, Students, Program Coordinator, University, Future Researchers.]
+P82 (align=None, style=Body Text Indented): [:default:default][Stakeholder] – [why the system matters to them.]
+P83 (align=None, style=Heading 2): [:default:default]Scope and Limitations of the Study
+P84 (align=None, style=Guide Note (delete)): [:default:default][Module guide — Scope: modules, users, environment (LAN/web), tools, automated processes (use: allows, includes, supports, automates, enables). Limitations: what it does NOT cover (use: does not support, is limited to, is not designed for, does not include).]
+P85 (align=None, style=Body Text Indented): [:default:default]This study focuses on [scope].
+P86 (align=None, style=Body Text Indented): [:default:default]The system has the following limitations: [limitations].
+P87 (align=None, style=Heading 1): [:default:default]Chapter II[:default:default]
+REVIEW OF RELATED LITERATURE
+P88 (align=None, style=Body Text Indented): [:default:default]This chapter presents a review of related literature and studies that provide the foundation of the proposed system.
+P89 (align=None, style=Heading 2): [:default:default]Related Literature
+P90 (align=None, style=Guide Note (delete)): [:default:default][Module guide — 3–5 core concepts (e.g., inventory/records systems, database systems, ISO 25010). For each: a short sub-heading, a paraphrased summary with APA 7th in-text citation, then one sentence linking it to your system.]
+P91 (align=None, style=Heading 3): [:default:default][Concept 1]
+P92 (align=None, style=Body Text Indented): [:default:default][Author] ([Year]) [paraphrased explanation]. This literature supports [link to your system].
+P93 (align=None, style=Heading 2): [:default:default]Related Studies
+P94 (align=None, style=Guide Note (delete)): [:default:default][Module guide — 3–5 similar local/foreign studies. For each: sub-heading (study title), author(s) and year, purpose, features/results, and how it differs from or resembles your system.]
+P95 (align=None, style=Heading 3): [:default:default][Title of Related Study 1]
+P96 (align=None, style=Body Text Indented): [:default:default][Author] ([Year]) developed [system] to [purpose]. [Features/results.] [Similarity or difference with the proposed system.]
+P97 (align=None, style=Heading 2): [:default:default]Table of Comparison
+P98 (align=None, style=Guide Note (delete)): [:default:default][Module guide — features in the left column, each study across the top, last column “This Study”. Use ✓ / ✗.]
+P99 (align=None, style=Body Text Indented): [:default:default]Table 1 presents the comparison of the related studies with the proposed system.
+P100 (align=None, style=Table Number): [:default:default]Table 1
+P101 (align=None, style=Table Title): [:default:default]System Comparison of the Related Studies with the Proposed System
+P102 (align=None, style=NoStyle): [:default:default]
+P103 (align=None, style=Heading 2): [:default:default]Synthesis
+P104 (align=None, style=Body Text Indented): [:default:default][Summarize what the literature and studies show, and how the proposed system builds on them and what new contribution it makes.]
+P105 (align=None, style=Heading 1): [:default:default]Chapter III[:default:default]
+METHODOLOGY
+P106 (align=None, style=Heading 2): [:default:default]Project Description
+P107 (align=None, style=Guide Note (delete)): [:default:default][Module guide — what the system is and its purpose; target users; core functions/modules; development tools (PHP, MySQL, etc.); environment (LAN, web, mobile, offline).]
+P108 (align=None, style=Body Text Indented): [:default:default]The [System Name] was developed to [purpose]. The system is intended to be used by [users] to [functions].
+P109 (align=None, style=Heading 2): [:default:default]Project Development Process
+P110 (align=None, style=Guide Note (delete)): [:default:default][Module guide — state the model (Prototyping Model) and describe each phase: Requirements Gathering, Quick Design, Prototype Development, User Evaluation, Refinement, Testing, Deployment. Include the SDLC figure.]
+P111 (align=None, style=Body Text Indented): [:default:default]The development of the system followed the [model], an iterative approach that [description].
+P112 (align=None, style=Body Text Indented): [:default:default]Figure 2 shows the [model] used in developing the system.
+P113 (align=CENTER (1), style=Guide Note (delete)): [:default:default][Insert figure here — centered, fit within the 1.5" left / 1" right margins]
+P114 (align=None, style=Figure Caption): [:default:default]Figure 2. [I:default:default][Development Model / SDLC Diagram]
+P115 (align=None, style=Heading 3): [:default:default]Requirements Gathering
+P116 (align=None, style=Body Text Indented): [:default:default][Activities done in this phase.]
+P117 (align=None, style=Heading 3): [:default:default]Quick Design
+P118 (align=None, style=Body Text Indented): [:default:default][Activities done in this phase.]
+P119 (align=None, style=Heading 2): [:default:default]UML Diagrams
+P120 (align=None, style=Guide Note (delete)): [:default:default][Module guide — Use Case, Activity, Class, Sequence, and System Architecture diagrams. For each: a lead-in sentence (“Figure N shows …”), the figure, then the caption below it. One figure per user role if the roles differ.]
+P121 (align=None, style=Heading 3): [:default:default]Use Case Diagram
+P122 (align=None, style=Body Text Indented): [:default:default]Figure 3 shows the use case diagram of the [actor].
+P123 (align=CENTER (1), style=Guide Note (delete)): [:default:default][Insert figure here — centered, fit within the 1.5" left / 1" right margins]
+P124 (align=None, style=Figure Caption): [:default:default]Figure 3. [I:default:default]Use Case Diagram of the [Actor]
+P125 (align=None, style=Heading 3): [:default:default]Activity Diagram
+P126 (align=None, style=Heading 3): [:default:default]Class Diagram
+P127 (align=None, style=Heading 3): [:default:default]Sequence Diagram
+P128 (align=None, style=Heading 3): [:default:default]System Architecture
+P129 (align=None, style=Heading 2): [:default:default]Requirement Analysis
+P130 (align=None, style=Guide Note (delete)): [:default:default][Module guide — minimum hardware (CPU, RAM, storage, display, network) and software (OS, server stack, DBMS, browser, tools).]
+P131 (align=None, style=Body Text Indented): [:default:default]Table 2 shows the hardware specification required to run the system.
+P132 (align=None, style=Table Number): [:default:default]Table 2
+P133 (align=None, style=Table Title): [:default:default]Hardware Specification
+P134 (align=None, style=NoStyle): [:default:default]
+P135 (align=None, style=Body Text Indented): [:default:default]Table 3 shows the software specification required to run the system.
+P136 (align=None, style=Table Number): [:default:default]Table 3
+P137 (align=None, style=Table Title): [:default:default]Software Specification
+P138 (align=None, style=NoStyle): [:default:default]
+P139 (align=None, style=Heading 2): [:default:default]System Evaluation
+P140 (align=None, style=Guide Note (delete)): [:default:default][Module guide — ISO 25010 criteria: Functionality, Usability, Reliability, Performance, Maintainability, Portability, Security, Compatibility; rated 1–5 per the scale below.]
+P141 (align=None, style=Body Text Indented): [:default:default]The system was evaluated by [number] respondents using an ISO 25010-based questionnaire rated on a five-point Likert scale. Table 4 shows the rating scale used in interpreting the results.
+P142 (align=None, style=Table Number): [:default:default]Table 4
+P143 (align=None, style=Table Title): [:default:default]Five-Point Likert Scale
+P144 (align=None, style=NoStyle): [:default:default]
+P145 (align=None, style=Heading 2): [:default:default]Data Gathering Instrument
+P146 (align=None, style=Body Text Indented): [:default:default][Describe the ISO 25010-based questionnaire: number of items, quality characteristics covered, 5-point Likert scale.]
+P147 (align=None, style=Heading 2): [:default:default]Respondents of the Study
+P148 (align=None, style=Body Text Indented): [:default:default][State respondent groups and numbers (e.g., IT experts and domain experts) and the sampling method.]
+P149 (align=None, style=Heading 2): [:default:default]Data Analysis Procedure and Statistical Treatment
+P150 (align=None, style=Body Text Indented): [:default:default]The mean was computed for each category using the formula: Mean = Sum of Ratings ÷ Number of Respondents. The computed means were interpreted using the scale in Table 4.
+P151 (align=None, style=Front Matter Heading): [:default:default]REFERENCES
+P152 (align=None, style=Guide Note (delete)): [:default:default][APA 7th: alphabetical by first author, hanging indent 0.5", double-spaced, titles of books/journals italicized.]
+P153 (align=None, style=Reference Entry): [:default:default]Coronel, C., & Morris, S. (2016). [I:default:default]Database systems: Design, implementation, & management[:default:default] (12th ed.). Cengage Learning.
+P154 (align=None, style=Appendix Heading): [:default:default]APPENDICES
+P155 (align=None, style=Appendix Heading): [:default:default]Appendix A
+P156 (align=None, style=Appendix Heading): [:default:default][TITLE OF APPENDIX]
+
+=== TABLES ===
+Table 0 (rows=4, cols=5):
+  Row 0: Features | [Author 1] ([Year]) | [Author 2] ([Year]) | [Author 3] ([Year]) | This Study
+  Row 1: [Feature 1] | ✓ | ✗ | ✓ | ✓
+  Row 2: [Feature 2] | ✗ | ✓ | ✗ | ✓
+  Row 3: [Feature 3] | ✓ | ✓ | ✗ | ✓
+Table 1 (rows=5, cols=2):
+  Row 0: Hardware Component | Specification
+  Row 1: Processor | [e.g., Dual Core 1.8 GHz or higher]
+  Row 2: Memory (RAM) | [e.g., 8 GB minimum]
+  Row 3: Storage | [e.g., 120 GB SSD or higher]
+  Row 4: Network | [e.g., LAN]
+Table 2 (rows=5, cols=2):
+  Row 0: Software Component | Specification
+  Row 1: Operating System | [e.g., Windows 10 or higher]
+  Row 2: Web Server | [e.g., XAMPP (Apache, PHP 8.2+)]
+  Row 3: Database | [e.g., MySQL]
+  Row 4: Browser | [e.g., Google Chrome or Mozilla Firefox]
+Table 3 (rows=6, cols=3):
+  Row 0: Rating | Range | Interpretation
+  Row 1: 5 | 4.21–5.00 | Excellent
+  Row 2: 4 | 3.41–4.20 | Very Good
+  Row 3: 3 | 2.61–3.40 | Good
+  Row 4: 2 | 1.81–2.60 | Poor
+  Row 5: 1 | 1.00–1.80 | Very Poor

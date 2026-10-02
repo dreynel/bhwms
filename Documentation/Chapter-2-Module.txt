@@ -1,0 +1,165 @@
+=== PAGE 1 ===
+   CHAPTER II – REVIEW OF RELATED LITERATURE AND STUDIES 
+ 
+    PURPOSE OF THIS CHAPTER 
+This chapter provides the intellectual foundation of your study. It shows that your project: 
+• Is grounded in scholarly work and prior system development. 
+• Builds on existing knowledge and systems, not just opinions. 
+• Is unique, while being inspired by proven approaches. 
+ 
+     STRUCTURE OVERVIEW: 
+Section Purpose 
+A. Related Literature Presents academic theories, concepts, and frameworks from books and 
+journals. 
+B. Related Studies Presents similar projects (local/foreign), their features, and results. 
+C. Table of 
+Comparison Visually compares the previous studies with your own system. 
+ 
+  A. RELATED LITERATURE 
+ 
+       What is it? 
+These are theoretical or academic sources from books, journals, or scholarly articles. This 
+section should explain: 
+• Concepts like Inventory Management, Database Systems, ISO 25010, etc. 
+• Why these concepts are relevant to your study. 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+ 
+       Steps to Write: 
+1. Choose 3–5 core concepts related to your system. 
+Example: Inventory Systems, Database Design, ISO Software Evaluation. 
+2. Look for academic sources (books, journals, e-books, PDFs). 
+3. Paraphrase and summarize their explanation. 
+4. Use proper APA 7th edition citations. 
+5. After each summary, write a sentence that connects it to your system. 
+ 
+   Full Example: 
+Inventory Management and Its Importance 
+Silver, Pyke, and Thomas (2016) emphasized that inventory management systems are essential 
+in controlling stock levels, minimizing human error, and preventing tool loss. They explained 
+that effective inventory systems help institutions avoid disruptions in operations by ensuring 
+that required items are always available. 
+This literature supports the need for a system in the automotive laboratory to prevent delays 
+during hands-on exercises caused by missing tools. 
+ 
+Database Systems in Inventory Applications 
+Coronel and Morris (2016) described a database as an organized collection of structured 
+information that is accessed and managed through a Database Management System (DBMS). 
+They discussed how databases ensure data consistency, support multiple users, and allow 
+secure retrieval of records. 
+In the context of the proposed Tools Inventory System, the database will serve as the central 
+storage of all transaction data such as stock-in/out, borrowing, and tool availability. 
+ 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+ 
+Software Evaluation Standards – ISO 25010 
+Pressman (2010) introduced the ISO 25010 model, which defines eight characteristics to 
+evaluate software quality: functionality, usability, reliability, maintainability, efficiency, 
+portability, compatibility, and security. 
+This study uses the ISO 25010 standard to evaluate the Tools Inventory System after deployment 
+to ensure its reliability and usability. 
+ 
+  B. RELATED STUDIES 
+ 
+       What is it? 
+This part reviews actual system development projects similar to yours. These may be: 
+• Undergraduate/Capstone systems 
+• Graduate theses 
+• Published system research 
+They can be local or foreign studies. This section shows that: 
+• Your idea is relevant and has been attempted before. 
+• Your system has something new to contribute. 
+ 
+       Steps to Write: 
+1. Identify 3–5 existing projects or studies with similar goals. 
+2. For each: 
+o State the author(s) and year 
+o Summarize the purpose 
+o Summarize the features or results 
+o Optionally say how it's different from or similar to your system 
+3. Use APA citation for the authors. 
+
+=== PAGE 4 ===
+ 
+   Full Example: 
+Development of a Laboratory Tools Tracking System 
+Delos Reyes (2018) developed a tool-tracking system for a state university’s mechanical lab, 
+aiming to address frequent tool losses and incomplete records. The system automated 
+borrowing and returning records, reducing manual errors and improving student accountability. 
+This is similar to the proposed study, but it lacked a formal system evaluation like ISO 25010. 
+ 
+Web-Based Inventory System for Technical Colleges 
+Chen (2020) created a web-based inventory system for a technical college’s engineering 
+department. It allowed remote access to tool records and improved transaction logs and report 
+generation. 
+Unlike this study, the Tools Inventory System will be LAN-based, limiting access to the laboratory 
+area only. 
+ 
+RFID-Enhanced Tool Inventory Management 
+Garcia and Liu (2019) implemented an inventory system that used RFID tags to track tools in real 
+time. The system provided alerts for overdue tools and generated analytics on tool usage 
+patterns. 
+While RFID improves tracking, this feature is not included in the current system due to cost and 
+technical constraints. However, it is considered a future enhancement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+ 
+  C. TABLE OF COMPARISON 
+ 
+       What is it? 
+This table summarizes the differences and similarities between: 
+• The related studies 
+• Your current study 
+It helps readers see at a glance what features are covered by each system and what makes your 
+system unique. 
+ 
+       Steps to Create: 
+1. List key system features on the left column. 
+2. List the authors/studies across the top. 
+3. Add a final column for “This Study” (your project). 
+4. Use checkmarks (  ) or   to indicate presence/absence of each feature. 
+ 
+   Full Example Table: 
+Features Delos Reyes (2018) Chen (2020) Garcia & Liu (2019) 
+Tool Registry          
+Borrow/Return Transactions          
+Inventory Report Generation          
+RFID Integration        
+Web-Based Access         
+ISO 25010 System Evaluation        
+Student Access via Login         
+
+=== PAGE 6 ===
+ 
+REFERENCES 
+Chen, R. (2020). Web-Based Inventory System for Technical Colleges. *Journal of Computing 
+Education*, 12(2), 43–56. 
+Coronel, C., & Morris, S. (2016). *Database systems: Design, implementation, & management* 
+(12th ed.). Cengage Learning. 
+Delos Reyes, A. (2018). Development of a Laboratory Tools Tracking System. Unpublished 
+undergraduate thesis, Polytechnic University of the Philippines. 
+Garcia, R., & Liu, T. (2019). RFID-Enhanced Inventory System in Automotive Labs. *International 
+Journal of Information Technology*, 10(1), 66–72. 
+Pressman, R. (2010). *Software engineering: A practitioner’s approach* (7th ed.). McGraw-Hill 
+Education. 
+Silver, E. A., Pyke, D. F., & Thomas, D. J. (2016). *Inventory and production management in 
+supply chains* (4th ed.). CRC Press. 
+ 
+ 
+ 
+ 
+

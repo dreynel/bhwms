@@ -1,0 +1,83 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme {
+    --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    --font-heading: 'Outfit', ui-sans-serif, system-ui, sans-serif;
+
+    --color-brand-50: #f0fdf4;
+    --color-brand-100: #dcfce7;
+    --color-brand-200: #bbf7d0;
+    --color-brand-300: #86efac;
+    --color-brand-400: #4ade80;
+    --color-brand-500: #22c55e;
+    --color-brand-600: #16a34a;
+    --color-brand-700: #15803d;
+    --color-brand-800: #166534;
+    --color-brand-900: #14532d;
+    --color-brand-950: #052e16;
+
+    /* Philippine Barangay & Health Center Identity */
+    --color-ph-blue: #0038a8;
+    --color-ph-navy: #0c1a30;
+    --color-ph-gold: #f59e0b;
+    --color-ph-sun: #fbbf24;
+    --color-ph-emerald: #059669;
+    --color-ph-mint: #10b981;
+    --color-ph-coral: #f43f5e;
+}
+
+/* Base resets & authentic Filipino Barangay background */
+html {
+    background-color: #f8fafc;
+    color: #0f172a;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+
+html.dark {
+    background-color: #0c1322;
+    color: #f8fafc;
+}
+
+[x-cloak] {
+    display: none !important;
+}
+
+/* Authentic Barangay Cards with Pristine Shadows */
+.glass-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+}
+
+.dark .glass-card {
+    background: linear-gradient(145deg, #131d31 0%, #0d1527 100%);
+    border: 1px solid rgba(51, 65, 85, 0.6);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+}
+
+.glass-card-hover {
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-card-hover:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 20px -5px rgba(5, 150, 105, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.dark .glass-card-hover:hover {
+    border-color: rgba(16, 185, 129, 0.4);
+    box-shadow: 0 12px 24px -6px rgba(0, 0, 0, 0.6), 0 0 20px -4px rgba(5, 150, 105, 0.2);
+}
+
+@media print {
+    .no-print { display: none !important; }
+    .print-only { display: block !important; }
+    body { background: white !important; color: black !important; font-size: 11pt; }
+    .card-box { border: 1px solid #cbd5e1 !important; background: white !important; color: black !important; box-shadow: none !important; }
+    a { text-decoration: none !important; color: black !important; }
+}

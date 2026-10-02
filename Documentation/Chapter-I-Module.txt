@@ -1,0 +1,358 @@
+=== PAGE 1 ===
+   CHAPTER I – INTRODUCTION  
+    SECTION: A. Background of the Study 
+       What is it? 
+The background introduces the topic of the project, explains the current situation or problem, 
+and presents the proposed solution (your system). It tells the reader why the study matters. 
+       Steps to Write: 
+1. Start with a general topic (e.g., what is inventory? Why is it important?) 
+2. Focus on your institution/program (e.g., ISAT U Dumangas, BIT Automotive) 
+3. Describe the current situation or problem (manual process, inefficiencies) 
+4. Explain the gap or need for improvement (tool loss, no real-time tracking) 
+5. Present your solution (the proposed system) 
+6. End with expected benefits (better tracking, CHED compliance, reduced workload) 
+   Example: 
+Inventory systems are essential tools used in schools, companies, and organizations to 
+monitor the availability, condition, and location of equipment and supplies. In educational 
+institutions, particularly those offering technical and vocational programs, proper inventory 
+management ensures that tools needed for laboratory activities are always available and in 
+good condition. 
+At Iloilo Science and Technology University Dumangas Campus, the Bachelor of Industrial 
+Technology (BIT) major in Automotive Technology includes laboratory courses that require the 
+use of various tools and equipment. However, the Automotive Department currently uses a 
+manual inventory system. All tool transactions are recorded in notebooks or spreadsheets. This 
+manual process is time-consuming, prone to errors, and difficult to monitor in real-time. 
+There have been instances where tools were not returned, misplaced, or damaged, but 
+no clear record could verify the borrower or transaction details. This affects laboratory 
+efficiency and accountability. Moreover, generating reports for tool usage and stock status takes 
+too much time. 
+Therefore, this study proposes the development of a Tools Inventory System that will 
+automate and streamline the inventory process. This system will allow the department to 
+record borrowing and returning transactions, monitor stock-in and stock-out activities, manage 
+
+=== PAGE 2 ===
+user accounts, and generate real-time reports. It aims to improve accountability, reduce tool 
+loss, and support effective teaching and learning. 
+    SECTION: B. Objectives of the Study 
+       What is it? 
+This section explains what your system will accomplish. It is divided into: 
+• General Objective (overall goal) 
+• Specific Objectives (step-by-step functions) 
+       Steps to Write: 
+1. Write 1 general objective: what the system as a whole aims to achieve. 
+2. Write specific objectives using action verbs (e.g., develop, manage, generate, evaluate). 
+3. Each objective should refer to one core function of your system. 
+   Example: 
+General Objective: 
+This study aims to develop a Tools Inventory System for the BIT Automotive Program of ISAT U 
+Dumangas Campus. 
+Specifically, it aims to: 
+1. create a database of tools and equipment used in the laboratory; 
+2. manage user accounts for administrators and laboratory staff; 
+3. manage the registry of tools and equipment; 
+4. record and monitor stock-in and stock-out transactions; 
+5. record and monitor tool borrowing and returning transactions; 
+6. generate inventory reports; and 
+7. evaluate the system using the ISO 25010 software quality standards. 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+    SECTION: C. Conceptual Framework 
+       What is it? 
+This part shows how the system works logically, using the IPO (Input-Process-Output) model. 
+       Steps to Write: 
+1. Identify your Inputs: the data your system will receive. 
+2. Identify the Processes: what the system will do with the data. 
+3. Identify the Outputs: what the system will generate or produce. 
+4. Create a diagram showing IPO flow (use draw.io or PowerPoint). 
+5. Describe the framework in paragraph form. 
+   Example Presentation and Description: 
+Figure 1 shows the conceptual framework of  this study. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Conceptual Framework of the Study 
+ 
+INPUT 
+ 
+• User Information 
+• Tools and 
+Equipment 
+Information 
+• Stock-In 
+Information 
+• Stock-Out 
+Information 
+• Borrowing 
+Information 
+• Returning 
+Information 
+ 
+PROCESS 
+ 
+• Manage user 
+accounts 
+• Manage registry of 
+tools and equipment 
+• Process stock-in 
+transactions 
+• Process stock-out 
+transactions 
+• Manage borrowing 
+transactions 
+• Manage returning 
+transactions 
+• Generate inventory 
+reports 
+ 
+OUTPUT 
+ 
+ 
+TOOLS 
+INVENTORY 
+SYSTEM 
+SYSTEM’S 
+EV ALUATION 
+ 
+
+=== PAGE 4 ===
+The conceptual framework of the study, presented in Figure 1, follows the Input-Process-
+Output (IPO) model, which outlines the flow of activities involved in developing the Tools 
+Inventory System for the BIT Automotive Program of Iloilo Science and Technology University 
+Dumangas Campus. The input stage consists of the essential data and information required by 
+the system, including user information, tools and equipment details, stock-in and stock-out 
+records, borrowing information, and returning information. These inputs serve as the foundation 
+for the system’s operations and ensure that processes are based on complete and accurate data. 
+The process stage involves the core activities needed to transform the inputs into the 
+desired system output. These include managing user accounts, maintaining the registry of tools 
+and equipment, processing stock-in and stock-out transactions, managing borrowing and 
+returning transactions, and generating inventory reports. These processes are designed to ensure 
+that the system operates efficiently, provides accurate records, and supports the needs of 
+laboratory operations. 
+The output of the framework is the Tools Inventory System, a functional system that 
+improves the management of tools and equipment in the Automotive Department. To ensure the 
+system’s quality and effectiveness, the framework includes a system evaluation phase, where the 
+developed system is assessed using the ISO 25010 software quality model. This evaluation 
+examines the system’s functionality, reliability, usability, and maintainability. The results of the 
+evaluation serve as feedback, guiding further improvements by refining inputs and processes to 
+better meet the needs of the department. 
+ 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+    SECTION:  D. Definition of Terms 
+       What is this section about? 
+This section defines all important technical, system, or domain-specific words found in your 
+capstone. Each term should be explained using: 
+• A Conceptual Definition (from books or journals), 
+• An Operational Definition (your own use-case). 
+ 
+       Steps to Create This Section: 
+1. List terms related to your system. 
+2. Search for academic definitions or use dictionary sources. 
+3. Start each entry like this: 
+o Term – Conceptual Definition (with citation). 
+o In this study, [Operational Definition]. 
+4. Keep it consistent in format and tone. 
+5. Arrange terms in alphabetical order. 
+ 
+   FULL EXAMPLE WITH CLEAR LABELING: 
+ 
+Borrowing Transactions 
+     Conceptual Definition: 
+The act of temporarily acquiring tools, equipment, or resources with the responsibility to return 
+them. (Bertland, 2017) 
+🛠 Operational Definition: 
+In this study, borrowing transactions refer to the system function that records the date, 
+borrower details, and quantity of tools borrowed by students or staff in the automotive 
+laboratory. 
+ 
+ 
+
+=== PAGE 6 ===
+ 
+Database 
+     Conceptual Definition: 
+A structured collection of data stored electronically, allowing easy access, retrieval, and 
+management using a database management system. (Coronel & Morris, 2016) 
+🛠 Operational Definition: 
+In this study, the database refers to the MySQL-powered backend that stores user information, 
+inventory records, stock transactions, and reports within the Tools Inventory System. 
+ 
+Stock-In 
+     Conceptual Definition: 
+The process of adding items or materials into the inventory system for future use. (Stevenson, 
+2018) 
+🛠 Operational Definition: 
+In this study, stock-in refers to the module that records new tools or restocked items being 
+added to the laboratory inventory through the system. 
+ 
+Tools Inventory System 
+     Conceptual Definition: 
+A software platform used to monitor, record, and manage tools and equipment to ensure 
+availability and proper usage. (Laudon & Laudon, 2020) 
+🛠 Operational Definition: 
+In this study, the Tools Inventory System refers to the developed LAN-based application that 
+allows the BIT Automotive Program to automate tool monitoring, borrowing, and reporting. 
+ 
+User Accounts 
+     Conceptual Definition: 
+Personalized login credentials used to gain authorized access to a digital system with varying 
+roles and permissions. (Stallings, 2017) 
+🛠 Operational Definition: 
+In this study, user accounts refer to the admin and laboratory staff profiles that log in to the 
+system to perform tasks such as managing tools and viewing reports. 
+
+=== PAGE 7 ===
+ 
+Stock-Out 
+     Conceptual Definition: 
+A condition where inventory levels of a specific item become zero, making the item temporarily 
+unavailable. (Hendricks & Singhal, 2005) 
+🛠 Operational Definition: 
+In this study, stock-out refers to the system’s feature for logging tools that are disposed of, 
+transferred, or lost from the inventory. 
+ 
+     Tip: 
+Always cite your conceptual definitions properly (APA style), and always begin your operational 
+definition with “In this study...” 
+ 
+    SECTION: Significance of the Study 
+     Instruction: 
+Explain why this system is important for each stakeholder. 
+     Sample Content: 
+Faculty – Allows automated tracking of tools, minimizing manual errors. 
+Laboratory Staff – Simplifies tool issuance and return processes. 
+Students – Ensures tools are available for their lab activities. 
+Program Coordinator – Helps monitor tool utilization and inventory needs. 
+University – Enhances transparency and CHED compliance. 
+Future Researchers – Serves as reference for similar systems using ISO 25010 standards. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 8 ===
+    SECTION: F. Scope and Limitations 
+ 
+       What is “Scope and Limitations” in a Capstone Project? 
+This section is a critical component of Chapter I. It outlines: 
+• SCOPE – What your system includes: features, users, environment, modules, 
+technologies. 
+• LIMITATIONS – What your system does not include: boundaries, excluded features, 
+constraints due to time, tools, or design decisions. 
+It defines the boundary of your project clearly and sets realistic expectations for the readers, 
+clients, and panel members. 
+ 
+      Why is this Section Important? 
+✔ It tells readers what to expect from your system and what not to expect. 
+✔ It shows that the project is focused, realistic, and feasible. 
+✔ It protects you from being criticized for features or goals you never intended to include. 
+✔ It reveals a professional level of planning and self-awareness about project limitations. 
+ 
+       HOW TO WRITE THIS SECTION 
+   Part 1: Scope (What the system covers) 
+Clearly describe: 
+• Main system modules (e.g., borrow/return, inventory tracking, report generation) 
+• Target users (e.g., admin, lab staff) 
+• Deployment environment (e.g., LAN-based, desktop app) 
+• Programming tools used 
+• Processes that the system automates 
+ 
+ 
+
+=== PAGE 9 ===
+Use verbs like: 
+• "allows" 
+• "includes" 
+• "supports" 
+• "automates" 
+• "enables" 
+ 
+   Part 2: Limitations (What the system does NOT cover) 
+Clearly describe: 
+• Excluded technologies (e.g., no RFID, no mobile access, no cloud) 
+• User restrictions (e.g., students cannot access) 
+• Security/alerting gaps (e.g., no overdue notifications) 
+• Future features that are outside the current scope (e.g., maintenance tracking, barcode 
+printing) 
+• Technical limitations (e.g., works only on Windows, not yet cross-platform) 
+Use phrases like: 
+• "does not support" 
+• "is limited to" 
+• "is not designed for" 
+• "does not include" 
+• "is restricted to" 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 10 ===
+     FULLY EXPANDED SAMPLE CONTENT 
+F. Scope and Limitations 
+  Scope: 
+This study focuses on the development and implementation of a Tools Inventory System 
+designed for the BIT Automotive Program of Iloilo Science and Technology University Dumangas 
+Campus. 
+The system is developed as a LAN-based application that runs on a desktop environment using 
+PHP , MySQL, Apache, and Sublime Text as the development stack. It allows only authorized 
+users—specifically the administrator and laboratory staff—to access the system within the 
+automotive laboratory. 
+The core features of the system include: 
+• Managing user accounts for lab staff and admin 
+• Maintaining a tool and equipment registry with descriptions and quantity 
+• Recording stock-in transactions (incoming tools/equipment) 
+• Recording stock-out transactions (tools removed or disposed) 
+• Recording borrowing and returning of tools by students (via staff entry) 
+• Generating inventory summary reports for print or review 
+All system activities are logged by user role and timestamp to maintain accountability. The 
+system also allows basic printing of inventory reports and transaction history for 
+documentation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 11 ===
+ 
+  Limitations: 
+While the developed system successfully automates key inventory functions, it has certain 
+limitations due to time, budget, and technical scope: 
+1. LAN-Only Access: The system is restricted to use within the laboratory and cannot be 
+accessed remotely or via the internet. There is no web-based or cloud deployment 
+included in this version. 
+2. No Student Login: Students cannot access the system interface. All transactions 
+(borrowing/returning) are handled by laboratory staff on their behalf. 
+3. No RFID or Barcode Integration: The system does not support barcode scanning or RFID 
+tracking of tools. All transactions are manually encoded. 
+4. No Notification or Alert System: There are no automatic notifications for overdue 
+borrowed tools or low stock levels. 
+5. Platform Dependency: The system is tested and optimized for Windows OS only. 
+Compatibility with Linux or macOS is not guaranteed. 
+6. No Maintenance or Calibration Module: The system does not monitor tool maintenance 
+schedules, calibration status, or tool conditions beyond basic remarks. 
+7. Limited Reporting Options: Reports generated are basic summaries and do not yet 
+include advanced analytics like usage patterns or top-borrowed tools. 
+ 
+ 
+
